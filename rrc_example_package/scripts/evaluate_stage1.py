@@ -44,7 +44,7 @@ def main():
     step_size=50
     difficulty=3
     obs_type='default'
-    model_path = '/userhome/model_with_dr_20_1.pt'
+    model_path = '/userhome/model_experience_32.pt'
     print(time.asctime())
     print('I am using the model: ',model_path)
     #############
