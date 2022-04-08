@@ -45,6 +45,7 @@ def main():
     difficulty=3
     obs_type='default'
     model_path = '/userhome/final_pinch_policy.pt'
+    print('I am using the model: ',model_path)
     #############
     
     # Make sim environment
